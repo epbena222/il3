@@ -2,6 +2,7 @@
     font-family: ttf;
     src: url(comic.ttf);
 }
+audio {text-align: center}
 body {
     background-image: url(https://upload.wikimedia.org/wikipedia/commons/4/48/Teleidoscope_animation.gif);
     background-position: center;
