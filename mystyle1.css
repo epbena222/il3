@@ -12,6 +12,11 @@ h2 {
   font-family: ttf;
 }
 
+.topnav {
+    background-image:url(https://upload.wikimedia.org/wikipedia/commons/4/48/Teleidoscope_animation.gif);
+    overflow: hidden;
+}
+
 .topnav a {
     float: left;
     color: #f2f2f2;
