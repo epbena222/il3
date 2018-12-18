@@ -8,7 +8,9 @@ body {
     background-position: center;
     background-size: cover;
 }
-
+a {
+ color: white;   
+}
 h1 {
     text-align: center;
     color: white;
